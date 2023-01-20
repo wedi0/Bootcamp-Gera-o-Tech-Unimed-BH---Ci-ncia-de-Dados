@@ -17,7 +17,7 @@ O pacote image_processing-wedi ele é usado para:
 * Similaridade estrutural;
 * Redimensionar imagem;
 
-**Módulo "Utils"**:
+**Módulo Utils**:
 
 * Ler imagem;
 * Salvar imagem;
