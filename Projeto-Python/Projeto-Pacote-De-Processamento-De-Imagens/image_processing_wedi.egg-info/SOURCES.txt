@@ -6,7 +6,7 @@ image_processing/processing/transformation.py
 image_processing/utils/__init__.py
 image_processing/utils/io.py
 image_processing/utils/plot.py
-image_processing_teste.egg-info/PKG-INFO
-image_processing_teste.egg-info/SOURCES.txt
-image_processing_teste.egg-info/dependency_links.txt
-image_processing_teste.egg-info/top_level.txt
+image_processing_wedi.egg-info/PKG-INFO
+image_processing_wedi.egg-info/SOURCES.txt
+image_processing_wedi.egg-info/dependency_links.txt
+image_processing_wedi.egg-info/top_level.txt
