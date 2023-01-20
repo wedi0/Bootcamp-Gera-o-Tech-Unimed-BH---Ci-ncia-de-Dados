@@ -19,7 +19,7 @@ Com isso podemos gerar gráficos que nos oferecem informações a respeito do qu
 ![Casos_Confirmados_no_Brasil](https://user-images.githubusercontent.com/84606803/213818265-e8f607a0-ac21-422c-896f-f5c2961ec1bc.png)
 
 ---
-Depois dos dados serem tratados e os explorarmos, passando para próxima etapa. No caso, a predição de novos casos. Pra isso utilizamos [pmdARIMA](https://pypi.org/project/pmdarima/) e [Prophet](https://facebook.github.io/prophet/docs/quick_start.html).   
+Depois dos dados serem tratados e os explorados, passamos para próxima etapa. No caso, a predição de novos casos. Pra isso utilizamos [pmdARIMA](https://pypi.org/project/pmdarima/) e [Prophet](https://facebook.github.io/prophet/docs/quick_start.html).   
 No exemplo abaixo utilizamos os dados que tinhamos dos primeiros meses de 2020 para prever como seria o andamento da pandemia ao decorrer do ano, este é o resulto:
   
  ![image](https://user-images.githubusercontent.com/84606803/213819517-8e186521-8aa8-435a-b33f-b66096117d1d.png)
