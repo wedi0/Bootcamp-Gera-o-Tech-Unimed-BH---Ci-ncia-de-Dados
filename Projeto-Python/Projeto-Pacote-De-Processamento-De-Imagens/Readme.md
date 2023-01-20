@@ -17,7 +17,7 @@ O pacote image_processing-wedi ele é usado para:
 * Similaridade estrutural;
 * Redimensionar imagem;
 
-**Módulo "Utils"**:
+**Módulo Utils**:
 
 * Ler imagem;
 * Salvar imagem;
@@ -51,8 +51,8 @@ Para publicar seu projeto no teste Pypi basta digitar o seguinte comando:
 ````
 python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 
-Obs: Pode ocorrer erro na hora de postar caso exista um projeto com de outra pessoa com o mesmo nome. Por isso uma coisa boa de se fazer é nomear o projeto da seguinte forma "projeto_nomedoprojeto-nomeusuário", pois assim não há riscos e seu arquivo será upado sem problemas.
 ````
+*Obs: Pode ocorrer erro ao postar(testPypi) caso exista um projeto de outra pessoa com o mesmo nome. Por isso, uma coisa boa de se fazer é nomear o projeto da seguinte forma "projeto_nomedoprojeto-nomeusuário", pois assim não há riscos e seu arquivo será upado sem problemas.*
 
 ------------------------
 # Usando o pacote
@@ -64,4 +64,4 @@ pip install -r requirements.txt
 **Instalação do pacote:**
 `````
 pip install -i https://test.pypi.org/simple/ image-processing-wedi
-````
+
