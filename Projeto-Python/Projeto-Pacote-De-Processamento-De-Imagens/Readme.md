@@ -2,7 +2,7 @@
 
 **Projeto**: Descomplicando a Criação de Pacotes de Processamento de Imagens em Python.
 
-**Promovido:** Geração Tech Unimed-BH - Ciência de Dados - Digital Innovation One.
+**Disponibilizado:** Geração Tech Unimed-BH - Ciência de Dados - Digital Innovation One.
 
 **Autora:** Karina Kato.
 
