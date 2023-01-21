@@ -2,7 +2,7 @@
 
 **Projeto:** Criando Modelos com Python e Machine Learning para Prever a Evolução do COVID-19 no Brasil.
 
-**Promovido:** Geração Tech Unimed-BH - Ciência de Dados - Digital Innovation One.
+**Disponibilizado:** Geração Tech Unimed-BH - Ciência de Dados - Digital Innovation One.
 
 **Autor**: Neylson Crepalde.
 
