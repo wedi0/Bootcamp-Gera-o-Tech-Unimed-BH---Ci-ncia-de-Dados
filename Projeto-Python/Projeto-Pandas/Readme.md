@@ -2,7 +2,7 @@
 
 **Projeto**: Análise de dados com Python e Pandas.
 
-**Promovido:** Geração Tech Unimed-BH - Ciência de Dados - Digital Innovation One.
+**Disponibilizado:** Geração Tech Unimed-BH - Ciência de Dados - Digital Innovation One.
 
 **Autor:** Fernanda Santos.
 
