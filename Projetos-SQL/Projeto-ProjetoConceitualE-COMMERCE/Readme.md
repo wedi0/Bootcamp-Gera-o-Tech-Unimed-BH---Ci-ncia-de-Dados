@@ -17,7 +17,7 @@ O projeto feito é de um e-commerce de venda de produtos online. Suas entidade, 
 ### Cliente: 
 * O cliente pode se cadastrar no site com o CPF ou CNPJ 
 * Um cliente pode comprar mais de um pedido. Este tem um período de arência para devolução do produto.
-* Atributos: Nome, CPF, email e endereço.
+* Atributos: Nome, ID, email e endereço.
 * O cliente pode ser PJ ou PF
 
 ### Fornecedor:
